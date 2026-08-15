@@ -1,0 +1,35 @@
+name: reading_jesus
+description: 성경 읽기 달력 앱 - 날짜별 유튜브 링크
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.2.5
+ 
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/url.json
+    - assets/church_logo.png
+    - assets/Reading_Jesus_logo.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/Reading_Jesus_logo.png"    

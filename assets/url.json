@@ -1,0 +1,1582 @@
+[
+  {
+    "date": "1/10",
+    "book": "구약개관",
+    "link": "https://www.youtube.com/watch?v=obvBe-eO498&list=PL68UlTaS5lt_sSPn82QlThS3zDY-JrbRR&index=1"
+  },
+  {
+    "date": "1/11",
+    "book": "창세기 설명1",
+    "link": "https://www.youtube.com/watch?v=LLu2xB_rIT4&list=PL68UlTaS5lt_sSPn82QlThS3zDY-JrbRR&index=2"
+  },
+  {
+    "date": "1/12",
+    "book": "창세기1~4",
+    "link": "https://www.youtube.com/watch?v=tanJ7F3Bc_4&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=1"
+  },
+  {
+    "date": "1/13",
+    "book": "창세기5~8",
+    "link": "https://www.youtube.com/watch?v=QCeCLxgwZIo&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=2"
+  },
+  {
+    "date": "1/14",
+    "book": "창세기9~12",
+    "link": "https://www.youtube.com/watch?v=O-pXprGiH8c&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=3"
+  },
+  {
+    "date": "1/15",
+    "book": "창세기13~16",
+    "link": "https://www.youtube.com/watch?v=C6k7Ih8FFX4&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=4"
+  },
+  {
+    "date": "1/16",
+    "book": "창세기17~20",
+    "link": "https://www.youtube.com/watch?v=3vD3r72_Y2w&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=5"
+  },
+  {
+    "date": "1/17",
+    "book": "창세기21~24",
+    "link": "https://www.youtube.com/watch?v=IVHwMA6CmQ0&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=6"
+  },
+  {
+    "date": "1/18",
+    "book": "창세기 설명2",
+    "link": "https://www.youtube.com/watch?v=yUeqd5_MsFY&list=PL68UlTaS5lt_sSPn82QlThS3zDY-JrbRR&index=3"
+  },
+  {
+    "date": "1/19",
+    "book": "창세기25~28",
+    "link": "https://www.youtube.com/watch?v=u6S1pIO0omI&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=7"
+  },
+  {
+    "date": "1/20",
+    "book": "창세기29~32",
+    "link": "https://www.youtube.com/watch?v=f8kGLRbDyyo&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=8"
+  },
+  {
+    "date": "1/21",
+    "book": "창세기33~36",
+    "link": "https://www.youtube.com/watch?v=s5XW1kNT5fg&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=9"
+  },
+  {
+    "date": "1/22",
+    "book": "창세기37~40",
+    "link": "https://www.youtube.com/watch?v=rjiuSEP36ms&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=10"
+  },
+  {
+    "date": "1/23",
+    "book": "창세기41~45",
+    "link": "https://www.youtube.com/watch?v=h42xu1wCzxo&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=11"
+  },
+  {
+    "date": "1/24",
+    "book": "창세기46~50",
+    "link": "https://www.youtube.com/watch?v=DIxsD_mVWmI&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=12"
+  },
+  {
+    "date": "1/25",
+    "book": "출애굽기 설명",
+    "link": "https://www.youtube.com/watch?v=nuumvEm2D9M&list=PL68UlTaS5lt_sSPn82QlThS3zDY-JrbRR&index=4"
+  },
+  {
+    "date": "1/26",
+    "book": "출애굽기1~6",
+    "link": "https://www.youtube.com/watch?v=JPKIP3j-Vos&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=13"
+  },
+  {
+    "date": "1/27",
+    "book": "출애굽기7~12",
+    "link": "https://www.youtube.com/watch?v=-uPjKdJSC0s&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=14"
+  },
+  {
+    "date": "1/28",
+    "book": "출애굽기13~19",
+    "link": "https://www.youtube.com/watch?v=iC6PbMfPmX0&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=15"
+  },
+  {
+    "date": "1/29",
+    "book": "출애굽기20~26",
+    "link": "https://www.youtube.com/watch?v=cofZEtSnva0&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=16"
+  },
+  {
+    "date": "1/30",
+    "book": "출애굽기27~33",
+    "link": "https://www.youtube.com/watch?v=RfX2yGF5X4k&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=17"
+  },
+  {
+    "date": "1/31",
+    "book": "출애굽기34~40",
+    "link": "https://www.youtube.com/watch?v=F076DA0Tm7Q&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=18"
+  },
+  {
+    "date": "2/1",
+    "book": "레위기 설명",
+    "link": "https://www.youtube.com/watch?v=4Ttqlz3qR8Q&list=PL68UlTaS5lt_sSPn82QlThS3zDY-JrbRR&index=5"
+  },
+  {
+    "date": "2/2",
+    "book": "레위기1~5",
+    "link": "https://www.youtube.com/watch?v=0cq6RPpu5ng&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=19"
+  },
+  {
+    "date": "2/3",
+    "book": "레위기6~10",
+    "link": "https://www.youtube.com/watch?v=Icl82ovX30M&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=20"
+  },
+  {
+    "date": "2/4",
+    "book": "레위기11~15",
+    "link": "https://www.youtube.com/watch?v=R5cQ2fAx_5I&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=21"
+  },
+  {
+    "date": "2/5",
+    "book": "레위기16~20",
+    "link": "https://www.youtube.com/watch?v=BTSNi2h6BlM&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=22"
+  },
+  {
+    "date": "2/6",
+    "book": "레위기21~25",
+    "link": "https://www.youtube.com/watch?v=kBJgICFgb4Q&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=23"
+  },
+  {
+    "date": "2/7",
+    "book": "레위기26~27",
+    "link": "https://www.youtube.com/watch?v=7bWqSHSy5jU&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=24"
+  },
+  {
+    "date": "2/8",
+    "book": "민수기 설명",
+    "link": "https://www.youtube.com/watch?v=ODkCppuCsAA&list=PL68UlTaS5lt_sSPn82QlThS3zDY-JrbRR&index=6"
+  },
+  {
+    "date": "2/9",
+    "book": "민수기1~6",
+    "link": "https://www.youtube.com/watch?v=Nett6JjnhWk&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=25"
+  },
+  {
+    "date": "2/10",
+    "book": "민수기7~12",
+    "link": "https://www.youtube.com/watch?v=V2SvqIIlIw8&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=26"
+  },
+  {
+    "date": "2/11",
+    "book": "민수기13~18",
+    "link": "https://www.youtube.com/watch?v=8Iy-7DprbHY&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=27"
+  },
+  {
+    "date": "2/12",
+    "book": "민수기19~24",
+    "link": "https://www.youtube.com/watch?v=PSne7-fwL_c&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=28"
+  },
+  {
+    "date": "2/13",
+    "book": "민수기25~30",
+    "link": "https://www.youtube.com/watch?v=l3KrTK1Ehs0&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=29"
+  },
+  {
+    "date": "2/14",
+    "book": "민수기31~36",
+    "link": "https://www.youtube.com/watch?v=wRBJPo5gzlA&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=30"
+  },
+  {
+    "date": "2/15",
+    "book": "신명기 설명",
+    "link": "https://www.youtube.com/watch?v=nrGJvJz9WHI&list=PL68UlTaS5lt_sSPn82QlThS3zDY-JrbRR&index=7"
+  },
+  {
+    "date": "2/16",
+    "book": "신명기1~6",
+    "link": "https://www.youtube.com/watch?v=w6F4qXAStbM&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=31"
+  },
+  {
+    "date": "2/17",
+    "book": "신명기7~12",
+    "link": "https://www.youtube.com/watch?v=gTnF7FdiZoY&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=32"
+  },
+  {
+    "date": "2/18",
+    "book": "신명기13~18",
+    "link": "https://www.youtube.com/watch?v=LJi2Yu9oNqs&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=33"
+  },
+  {
+    "date": "2/19",
+    "book": "신명기19~24",
+    "link": "https://www.youtube.com/watch?v=6_saHDzAtJI&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=34"
+  },
+  {
+    "date": "2/20",
+    "book": "신명기25~29",
+    "link": "https://www.youtube.com/watch?v=Kr5oL40KwBE&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=35"
+  },
+  {
+    "date": "2/21",
+    "book": "신명기30~34",
+    "link": "https://www.youtube.com/watch?v=_LRFeW5FLUQ&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=36"
+  },
+  {
+    "date": "2/22",
+    "book": "여호수아서 설명",
+    "link": "https://www.youtube.com/watch?v=Eb6jCXeDHCg&list=PL68UlTaS5lt_sSPn82QlThS3zDY-JrbRR&index=8"
+  },
+  {
+    "date": "2/23",
+    "book": "여호수아1~4",
+    "link": "https://www.youtube.com/watch?v=m8DtwyjLkiA&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=37"
+  },
+  {
+    "date": "2/24",
+    "book": "여호수아5~8",
+    "link": "https://www.youtube.com/watch?v=-eKMc6hAf7s&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=38"
+  },
+  {
+    "date": "2/25",
+    "book": "여호수아9~12",
+    "link": "https://www.youtube.com/watch?v=BGY0gciC_yY&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=39"
+  },
+  {
+    "date": "2/26",
+    "book": "여호수아13~16",
+    "link": "https://www.youtube.com/watch?v=5N8vUZ119RQ&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=40"
+  },
+  {
+    "date": "2/27",
+    "book": "여호수아17~20",
+    "link": "https://www.youtube.com/watch?v=BfD1DOIsis0&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=41"
+  },
+  {
+    "date": "2/28",
+    "book": "여호수아21~24",
+    "link": "https://www.youtube.com/watch?v=nZGVxZuOFSA&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=42"
+  },
+  {
+    "date": "3/1",
+    "book": "사사기 설명",
+    "link": "https://www.youtube.com/watch?v=A4BVjXOnJXY&list=PL68UlTaS5lt9L2bTJ2MgN2q9yeniRGfDJ&index=1"
+  },
+  {
+    "date": "3/2",
+    "book": "사사기1~4",
+    "link": "https://www.youtube.com/watch?v=m8DtwyjLkiA&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=37"
+  },
+  {
+    "date": "3/3",
+    "book": "사사기5~8",
+    "link": "https://www.youtube.com/watch?v=-eKMc6hAf7s&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=38"
+  },
+  {
+    "date": "3/4",
+    "book": "사사기9~12",
+    "link": "https://www.youtube.com/watch?v=BGY0gciC_yY&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=39"
+  },
+  {
+    "date": "3/5",
+    "book": "사사기13~16",
+    "link": "https://www.youtube.com/watch?v=5N8vUZ119RQ&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=40"
+  },
+  {
+    "date": "3/6",
+    "book": "사사기17~21",
+    "link": "https://www.youtube.com/watch?v=BfD1DOIsis0&list=PL68UlTaS5lt-aLqRnEr5CuPs9SzhkzJkr&index=41"
+  },
+  {
+    "date": "3/7",
+    "book": "룻기1~4",
+    "link": "https://www.youtube.com/watch?v=3bcKIosS0nY&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=6"
+  },
+  {
+    "date": "3/8",
+    "book": "사무엘상하 설명1",
+    "link": "https://www.youtube.com/watch?v=YLuWUTeCltc&list=PL68UlTaS5lt9L2bTJ2MgN2q9yeniRGfDJ&index=2"
+  },
+  {
+    "date": "3/9",
+    "book": "사무엘상1~5",
+    "link": "https://www.youtube.com/watch?v=m3Fk5UcyIeU&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=7"
+  },
+  {
+    "date": "3/10",
+    "book": "사무엘상6~10",
+    "link": "https://www.youtube.com/watch?v=HL6UU1HuLow&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=8"
+  },
+  {
+    "date": "3/11",
+    "book": "사무엘상11~15",
+    "link": "https://www.youtube.com/watch?v=x0FJYaePp0M&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=9"
+  },
+  {
+    "date": "3/12",
+    "book": "사무엘상16~20",
+    "link": "https://www.youtube.com/watch?v=SCGQMwhDHL4&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=10"
+  },
+  {
+    "date": "3/13",
+    "book": "사무엘상21~25",
+    "link": "https://www.youtube.com/watch?v=IxpJiWP4Yps&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=11"
+  },
+  {
+    "date": "3/14",
+    "book": "사무엘상26~31",
+    "link": "https://www.youtube.com/watch?v=sAyZfp7VEVg&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=12"
+  },
+  {
+    "date": "3/15",
+    "book": "사무엘상하 설명2",
+    "link": "https://www.youtube.com/watch?v=MVQgiGHrMec&list=PL68UlTaS5lt9L2bTJ2MgN2q9yeniRGfDJ&index=3"
+  },
+  {
+    "date": "3/16",
+    "book": "사무엘하1~4",
+    "link": "https://www.youtube.com/watch?v=_umuAjksHJs&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=13"
+  },
+  {
+    "date": "3/17",
+    "book": "사무엘하5~8",
+    "link": "https://www.youtube.com/watch?v=Iipgy7L95nA&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=14"
+  },
+  {
+    "date": "3/18",
+    "book": "사무엘하9~12",
+    "link": "https://www.youtube.com/watch?v=f7XKr_bLU_g&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=15"
+  },
+  {
+    "date": "3/19",
+    "book": "사무엘하13~16",
+    "link": "https://www.youtube.com/watch?v=CgcamQMVJZI&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=16"
+  },
+  {
+    "date": "3/20",
+    "book": "사무엘하17~20",
+    "link": "https://www.youtube.com/watch?v=EEqrfrpRQJQ&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=17"
+  },
+  {
+    "date": "3/21",
+    "book": "사무엘하21~24",
+    "link": "https://www.youtube.com/watch?v=80JaUmNYtAw&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=18"
+  },
+  {
+    "date": "3/22",
+    "book": "열왕기상하 설명",
+    "link": "https://www.youtube.com/watch?v=OFxFwWNMEjw&list=PL68UlTaS5lt9L2bTJ2MgN2q9yeniRGfDJ&index=4"
+  },
+  {
+    "date": "3/23",
+    "book": "열왕기상1~4",
+    "link": "https://www.youtube.com/watch?v=bG5h_xtSWaY&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=19"
+  },
+  {
+    "date": "3/24",
+    "book": "열왕기상5~7",
+    "link": "https://www.youtube.com/watch?v=w84-u7z5wYc&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=20"
+  },
+  {
+    "date": "3/25",
+    "book": "열왕기상8~10",
+    "link": "https://www.youtube.com/watch?v=fZN7MJXWT34&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=21"
+  },
+  {
+    "date": "3/26",
+    "book": "열왕기상11~14",
+    "link": "https://www.youtube.com/watch?v=5NrJ0AsoIvQ&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=22"
+  },
+  {
+    "date": "3/27",
+    "book": "열왕기상15~18",
+    "link": "https://www.youtube.com/watch?v=RhuKWlZfUTg&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=23"
+  },
+  {
+    "date": "3/28",
+    "book": "열왕기상19~22",
+    "link": "https://www.youtube.com/watch?v=wuekqFrtMfc&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=24"
+  },
+  {
+    "date": "3/29",
+    "book": "열왕기상하 설명",
+    "link": "https://www.youtube.com/watch?v=OFxFwWNMEjw&list=PL68UlTaS5lt9L2bTJ2MgN2q9yeniRGfDJ&index=4"
+  },
+  {
+    "date": "3/30",
+    "book": "열왕기하1~4",
+    "link": "https://www.youtube.com/watch?v=LPV2i5xDojI&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=25"
+  },
+  {
+    "date": "3/31",
+    "book": "열왕기하5~8",
+    "link": "https://www.youtube.com/watch?v=4Zok-D_VsEc&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=26"
+  },
+  {
+    "date": "4/1",
+    "book": "열왕기하9~12",
+    "link": "https://www.youtube.com/watch?v=PCFpuWW_iDw&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=27"
+  },
+  {
+    "date": "4/2",
+    "book": "열왕기하13~16",
+    "link": "https://www.youtube.com/watch?v=xVUjUr5ZB3I&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=28"
+  },
+  {
+    "date": "4/3",
+    "book": "열왕기하17~20",
+    "link": "https://www.youtube.com/watch?v=_U4--rwTRTI&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=29"
+  },
+  {
+    "date": "4/4",
+    "book": "열왕기하21~25",
+    "link": "https://www.youtube.com/watch?v=8ipfKD2qpLA&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=30"
+  },
+  {
+    "date": "4/5",
+    "book": "역대상하 설명",
+    "link": "https://www.youtube.com/watch?v=DATMW23HVm4&list=PL68UlTaS5lt9L2bTJ2MgN2q9yeniRGfDJ&index=5"
+  },
+  {
+    "date": "4/6",
+    "book": "역대상1~5",
+    "link": "https://www.youtube.com/watch?v=9n44w7p1Wn8&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=31"
+  },
+  {
+    "date": "4/7",
+    "book": "역대상6~10",
+    "link": "https://www.youtube.com/watch?v=jFItIY1TL2I&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=32"
+  },
+  {
+    "date": "4/8",
+    "book": "역대상11~15",
+    "link": "https://www.youtube.com/watch?v=ZrS66ch-qdM&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=33"
+  },
+  {
+    "date": "4/9",
+    "book": "역대상16~20",
+    "link": "https://www.youtube.com/watch?v=oTaV_SmaWz4&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=34"
+  },
+  {
+    "date": "4/10",
+    "book": "역대상21~25",
+    "link": "https://www.youtube.com/watch?v=53lSFUtPRSk&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=35"
+  },
+  {
+    "date": "4/11",
+    "book": "역대상26~29",
+    "link": "https://www.youtube.com/watch?v=4iUsBOq31EU&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=36"
+  },
+  {
+    "date": "4/12",
+    "book": "유배기 설명",
+    "link": "https://www.youtube.com/watch?v=BxFFHUtlaSM&list=PL68UlTaS5lt9L2bTJ2MgN2q9yeniRGfDJ&index=6"
+  },
+  {
+    "date": "4/13",
+    "book": "역대하1~6",
+    "link": "https://www.youtube.com/watch?v=wW5W6HBNz-4&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=37"
+  },
+  {
+    "date": "4/14",
+    "book": "역대하7~12",
+    "link": "https://www.youtube.com/watch?v=CrdXZDDPl-8&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=38"
+  },
+  {
+    "date": "4/15",
+    "book": "역대하13~18",
+    "link": "https://www.youtube.com/watch?v=XdQ_1kznBuI&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=39"
+  },
+  {
+    "date": "4/16",
+    "book": "역대하19~24",
+    "link": "https://www.youtube.com/watch?v=xyaG6kADAuM&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=40"
+  },
+  {
+    "date": "4/17",
+    "book": "역대하25~30",
+    "link": "https://www.youtube.com/watch?v=8Uq9f4iySis&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=41"
+  },
+  {
+    "date": "4/18",
+    "book": "역대하31~36",
+    "link": "https://www.youtube.com/watch?v=R4rdw-2YVFA&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=42"
+  },
+  {
+    "date": "4/19",
+    "book": "에스라,느헤미야,에스더 설명",
+    "link": "https://www.youtube.com/watch?v=MIZFwFNaFkk&list=PL68UlTaS5lt9L2bTJ2MgN2q9yeniRGfDJ&index=7"
+  },
+  {
+    "date": "4/20",
+    "book": "에스라1~5",
+    "link": "https://www.youtube.com/watch?v=EIC3DLFp_TQ&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=43"
+  },
+  {
+    "date": "4/21",
+    "book": "에스라6~10",
+    "link": "https://www.youtube.com/watch?v=A4F8KRuRITQ&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=44"
+  },
+  {
+    "date": "4/22",
+    "book": "느헤미야1~6",
+    "link": "https://www.youtube.com/watch?v=ghBlIBUFF24&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=45"
+  },
+  {
+    "date": "4/23",
+    "book": "느헤미야7~13",
+    "link": "https://www.youtube.com/watch?v=TmVNQBZGXwc&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=46"
+  },
+  {
+    "date": "4/24",
+    "book": "에스더1~5",
+    "link": "https://www.youtube.com/watch?v=LA9iTOtTST4&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=47"
+  },
+  {
+    "date": "4/25",
+    "book": "에스더6~10",
+    "link": "https://www.youtube.com/watch?v=UXOjyTyE9Zg&list=PL68UlTaS5lt93jDvE32FIrWzZiBwc9653&index=48"
+  },
+  {
+    "date": "4/26",
+    "book": "욥기 설명",
+    "link": "https://www.youtube.com/watch?v=py_S7ICqOyQ&list=PL68UlTaS5lt8TnLXkwLEdBrlfTe0souaZ&index=1"
+  },
+  {
+    "date": "4/27",
+    "book": "욥기1~7",
+    "link": "https://www.youtube.com/watch?v=FPwJiM2Ncgk&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=1"
+  },
+  {
+    "date": "4/28",
+    "book": "욥기8~14",
+    "link": "https://www.youtube.com/watch?v=6omqjyWS7bk&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=2"
+  },
+  {
+    "date": "4/29",
+    "book": "욥기15~21",
+    "link": "https://www.youtube.com/watch?v=QBnwQ7qPDNI&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=3"
+  },
+  {
+    "date": "4/30",
+    "book": "욥기22~28",
+    "link": "https://www.youtube.com/watch?v=tiUutIOYZ_0&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=4"
+  },
+  {
+    "date": "5/1",
+    "book": "욥기29~35",
+    "link": "https://www.youtube.com/watch?v=W-5wMIDtB7A&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=5"
+  },
+  {
+    "date": "5/2",
+    "book": "욥기36~42",
+    "link": "https://www.youtube.com/watch?v=1ELa639BZmA&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=6"
+  },
+  {
+    "date": "5/3",
+    "book": "시편 설명1",
+    "link": "https://www.youtube.com/watch?v=dDzzD_vu0JI&list=PL68UlTaS5lt8TnLXkwLEdBrlfTe0souaZ&index=2"
+  },
+  {
+    "date": "5/4",
+    "book": "시편1~6",
+    "link": "https://www.youtube.com/watch?v=Xw9qGXf-IOU&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=7"
+  },
+  {
+    "date": "5/5",
+    "book": "시편7~12",
+    "link": "https://www.youtube.com/watch?v=LdX1VARHxXw&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=8"
+  },
+  {
+    "date": "5/6",
+    "book": "시편13~18",
+    "link": "https://www.youtube.com/watch?v=IPIwioNS0O8&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=9"
+  },
+  {
+    "date": "5/7",
+    "book": "시편19~24",
+    "link": "https://www.youtube.com/watch?v=NncQic7yXHE&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=10"
+  },
+  {
+    "date": "5/8",
+    "book": "시편25~30",
+    "link": "https://www.youtube.com/watch?v=Zy_y7ZmYwzw&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=11"
+  },
+  {
+    "date": "5/9",
+    "book": "시편31~36",
+    "link": "https://www.youtube.com/watch?v=ezKjfZ2UysA&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=12"
+  },
+  {
+    "date": "5/10",
+    "book": "시편 설명2",
+    "link": "https://www.youtube.com/watch?v=3js4uGzvsJY&list=PL68UlTaS5lt8TnLXkwLEdBrlfTe0souaZ&index=3"
+  },
+  {
+    "date": "5/11",
+    "book": "시편37~42",
+    "link": "https://www.youtube.com/watch?v=w3p1BdvvozM&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=13"
+  },
+  {
+    "date": "5/12",
+    "book": "시편43~48",
+    "link": "https://www.youtube.com/watch?v=CytdIciWnbo&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=14"
+  },
+  {
+    "date": "5/13",
+    "book": "시편49~54",
+    "link": "https://www.youtube.com/watch?v=bKww5yEn664&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=15"
+  },
+  {
+    "date": "5/14",
+    "book": "시편55~60",
+    "link": "https://www.youtube.com/watch?v=S7MTRivOyyQ&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=16"
+  },
+  {
+    "date": "5/15",
+    "book": "시편61~66",
+    "link": "https://www.youtube.com/watch?v=7pYpQe8KuP8&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=17"
+  },
+  {
+    "date": "5/16",
+    "book": "시편67~72",
+    "link": "https://www.youtube.com/watch?v=h--0xm2hwF8&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=18"
+  },
+  {
+    "date": "5/17",
+    "book": "시편 설명3",
+    "link": "https://www.youtube.com/watch?v=HlB72y13ork&list=PL68UlTaS5lt8TnLXkwLEdBrlfTe0souaZ&index=4"
+  },
+  {
+    "date": "5/18",
+    "book": "시편73~78",
+    "link": "https://www.youtube.com/watch?v=4wlO6G1R9ug&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=19"
+  },
+  {
+    "date": "5/19",
+    "book": "시편79~84",
+    "link": "https://www.youtube.com/watch?v=Oc_WRPnxF-A&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=20"
+  },
+  {
+    "date": "5/20",
+    "book": "시편85~90",
+    "link": "https://www.youtube.com/watch?v=AGNOadKTsS4&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=21"
+  },
+  {
+    "date": "5/21",
+    "book": "시편91~96",
+    "link": "https://www.youtube.com/watch?v=ic9RpK1aZnE&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=22"
+  },
+  {
+    "date": "5/22",
+    "book": "시편97~102",
+    "link": "https://www.youtube.com/watch?v=r4gpBx-ETOA&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=23"
+  },
+  {
+    "date": "5/23",
+    "book": "시편103~109",
+    "link": "https://www.youtube.com/watch?v=E0MJie7f-TQ&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=24"
+  },
+  {
+    "date": "5/24",
+    "book": "시편 설명4",
+    "link": "https://www.youtube.com/watch?v=bDPOFSHgkQA&list=PL68UlTaS5lt8TnLXkwLEdBrlfTe0souaZ&index=5"
+  },
+  {
+    "date": "5/25",
+    "book": "시편110~115",
+    "link": "https://www.youtube.com/watch?v=X2XmjbE2a7c&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=25"
+  },
+  {
+    "date": "5/26",
+    "book": "시편116~120",
+    "link": "https://www.youtube.com/watch?v=6i94KTjBrxA&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=26"
+  },
+  {
+    "date": "5/27",
+    "book": "시편121~125",
+    "link": "https://www.youtube.com/watch?v=90m_ShatEXE&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=27"
+  },
+  {
+    "date": "5/28",
+    "book": "시편126~130",
+    "link": "https://www.youtube.com/watch?v=oF_jF2rRBVw&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=28"
+  },
+  {
+    "date": "5/29",
+    "book": "시편131~140",
+    "link": "https://www.youtube.com/watch?v=M9MX_Ek-kp8&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=29"
+  },
+  {
+    "date": "5/30",
+    "book": "시편141~150",
+    "link": "https://www.youtube.com/watch?v=V3tF1yRLb4M&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=30"
+  },
+  {
+    "date": "5/31",
+    "book": "잠언 설명",
+    "link": "https://www.youtube.com/watch?v=l8uNGDL9T0w&list=PL68UlTaS5lt8TnLXkwLEdBrlfTe0souaZ&index=6"
+  },
+  {
+    "date": "6/1",
+    "book": "잠언1~5",
+    "link": "https://www.youtube.com/watch?v=ulZK2c7yIkM&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=31"
+  },
+  {
+    "date": "6/2",
+    "book": "잠언6~10",
+    "link": "https://www.youtube.com/watch?v=jsnJwDzQ2Rg&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=32"
+  },
+  {
+    "date": "6/3",
+    "book": "잠언11~15",
+    "link": "https://www.youtube.com/watch?v=zGwCcEZ6XjM&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=33"
+  },
+  {
+    "date": "6/4",
+    "book": "잠언16~20",
+    "link": "https://www.youtube.com/watch?v=E6j8BzscC-o&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=34"
+  },
+  {
+    "date": "6/5",
+    "book": "잠언21~25",
+    "link": "https://www.youtube.com/watch?v=j1Jef03tOsU&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=35"
+  },
+  {
+    "date": "6/6",
+    "book": "잠언26~31",
+    "link": "https://www.youtube.com/watch?v=itMOlhNYgTQ&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=36"
+  },
+  {
+    "date": "6/7",
+    "book": "전도서,아가 설명",
+    "link": "https://www.youtube.com/watch?v=QIATHwMWS-I&list=PL68UlTaS5lt8TnLXkwLEdBrlfTe0souaZ&index=7"
+  },
+  {
+    "date": "6/8",
+    "book": "전도서1~3",
+    "link": "https://www.youtube.com/watch?v=HoL7TfrM4M4&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=37"
+  },
+  {
+    "date": "6/9",
+    "book": "전도서4~6",
+    "link": "https://www.youtube.com/watch?v=42UDIvwwjyc&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=38"
+  },
+  {
+    "date": "6/10",
+    "book": "전도서7~9",
+    "link": "https://www.youtube.com/watch?v=tSHNJ6m2V80&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=39"
+  },
+  {
+    "date": "6/11",
+    "book": "전도서10~12",
+    "link": "https://www.youtube.com/watch?v=-TdmIuHFcO8&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=40"
+  },
+  {
+    "date": "6/12",
+    "book": "아가1~4",
+    "link": "https://www.youtube.com/watch?v=zfF9-cAj0cw&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=41"
+  },
+  {
+    "date": "6/13",
+    "book": "아가5~8",
+    "link": "https://www.youtube.com/watch?v=8QVC1o0_sXo&list=PL68UlTaS5lt-qSwbWEeJSaB2GfwH35Q5x&index=42"
+  },
+  {
+    "date": "6/14",
+    "book": "이사야 설명",
+    "link": "https://www.youtube.com/watch?v=kRhEyqzxqUs&list=PL68UlTaS5lt_TgyJYCLq1YFL-mX3xdju4&index=1"
+  },
+  {
+    "date": "6/15",
+    "book": "이사야1~5",
+    "link": "https://www.youtube.com/watch?v=A_yLNI83VEM&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=1"
+  },
+  {
+    "date": "6/16",
+    "book": "이사야6~10",
+    "link": "https://www.youtube.com/watch?v=EK8lKCq1PH4&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=2"
+  },
+  {
+    "date": "6/17",
+    "book": "이사야11~15",
+    "link": "https://www.youtube.com/watch?v=W7d-0593X_g&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=3"
+  },
+  {
+    "date": "6/18",
+    "book": "이사야16~20",
+    "link": "https://www.youtube.com/watch?v=627wp6ROMiM&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=4"
+  },
+  {
+    "date": "6/19",
+    "book": "이사야21~25",
+    "link": "https://www.youtube.com/watch?v=RoMubNk67b4&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=5"
+  },
+  {
+    "date": "6/20",
+    "book": "이사야26~30",
+    "link": "https://www.youtube.com/watch?v=P4A6x2rW1ss&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=6"
+  },
+  {
+    "date": "6/21",
+    "book": "이사야 설명",
+    "link": "https://www.youtube.com/watch?v=kRhEyqzxqUs&list=PL68UlTaS5lt_TgyJYCLq1YFL-mX3xdju4&index=1"
+  },
+  {
+    "date": "6/22",
+    "book": "이사야31~36",
+    "link": "https://www.youtube.com/watch?v=_oaTB8iqjzo&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=7"
+  },
+  {
+    "date": "6/23",
+    "book": "이사야37~42",
+    "link": "https://www.youtube.com/watch?v=XYqfH-y9ZGM&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=8"
+  },
+  {
+    "date": "6/24",
+    "book": "이사야43~48",
+    "link": "https://www.youtube.com/watch?v=-8L9RtzTQ5g&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=9"
+  },
+  {
+    "date": "6/25",
+    "book": "이사야49~54",
+    "link": "https://www.youtube.com/watch?v=AtIeBEK4TuU&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=10"
+  },
+  {
+    "date": "6/26",
+    "book": "이사야55~60",
+    "link": "https://www.youtube.com/watch?v=MniKMG-GR_A&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=11"
+  },
+  {
+    "date": "6/27",
+    "book": "이사야61~66",
+    "link": "https://www.youtube.com/watch?v=Np8hfTONjJM&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=12"
+  },
+  {
+    "date": "6/28",
+    "book": "예레미야 설명",
+    "link": "https://www.youtube.com/watch?v=MBoaA_5sid0&list=PL68UlTaS5lt_TgyJYCLq1YFL-mX3xdju4&index=2"
+  },
+  {
+    "date": "6/29",
+    "book": "예레미야1~5",
+    "link": "https://www.youtube.com/watch?v=twjCVJc0NHw&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=13"
+  },
+  {
+    "date": "6/30",
+    "book": "예레미야6~10",
+    "link": "https://www.youtube.com/watch?v=3RsXlZU5vO8&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=14"
+  },
+  {
+    "date": "7/1",
+    "book": "예레미야11~15",
+    "link": "https://www.youtube.com/watch?v=hBzfN9omNvE&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=15"
+  },
+  {
+    "date": "7/2",
+    "book": "예레미야16~20",
+    "link": "https://www.youtube.com/watch?v=kKpqMKqbXQs&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=16"
+  },
+  {
+    "date": "7/3",
+    "book": "예레미야21~25",
+    "link": "https://www.youtube.com/watch?v=AR9MXi9FINg&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=17"
+  },
+  {
+    "date": "7/4",
+    "book": "예레미야26~30",
+    "link": "https://www.youtube.com/watch?v=1VFP5MUde4A&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=18"
+  },
+  {
+    "date": "7/5",
+    "book": "예레미야 설명",
+    "link": "https://www.youtube.com/watch?v=MBoaA_5sid0&list=PL68UlTaS5lt_TgyJYCLq1YFL-mX3xdju4&index=2"
+  },
+  {
+    "date": "7/6",
+    "book": "예레미야31~35",
+    "link": "https://www.youtube.com/watch?v=ao1t99R9kyo&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=19"
+  },
+  {
+    "date": "7/7",
+    "book": "예레미야36~40",
+    "link": "https://www.youtube.com/watch?v=CepvfrtAOQo&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=20"
+  },
+  {
+    "date": "7/8",
+    "book": "예레미야41~45",
+    "link": "https://www.youtube.com/watch?v=OTJClggBP6Q&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=21"
+  },
+  {
+    "date": "7/9",
+    "book": "예레미야46~50",
+    "link": "https://www.youtube.com/watch?v=PMHLlz7iajk&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=22"
+  },
+  {
+    "date": "7/10",
+    "book": "예레미야51~52",
+    "link": "https://www.youtube.com/watch?v=EoJl2A5o068&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=23"
+  },
+  {
+    "date": "7/11",
+    "book": "예레미야애가1~5",
+    "link": "https://www.youtube.com/watch?v=gzBKgyBAHnM&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=24"
+  },
+  {
+    "date": "7/12",
+    "book": "에스겔 설명",
+    "link": "https://www.youtube.com/watch?v=t7MwSpxihPk&list=PL68UlTaS5lt_TgyJYCLq1YFL-mX3xdju4&index=3"
+  },
+  {
+    "date": "7/13",
+    "book": "에스겔1~4",
+    "link": "https://www.youtube.com/watch?v=xSz681JKrCI&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=25"
+  },
+  {
+    "date": "7/14",
+    "book": "에스겔5~8",
+    "link": "https://www.youtube.com/watch?v=L-sRT6Thlio&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=26"
+  },
+  {
+    "date": "7/15",
+    "book": "에스겔9~12",
+    "link": "https://www.youtube.com/watch?v=GiKHb2Rz2Yc&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=27"
+  },
+  {
+    "date": "7/16",
+    "book": "에스겔 13~16",
+    "link": "https://www.youtube.com/watch?v=4CfvHMBgQ50&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=28"
+  },
+  {
+    "date": "7/17",
+    "book": "에스겔17~20",
+    "link": "https://www.youtube.com/watch?v=vYd7vUSeTdI&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=29"
+  },
+  {
+    "date": "7/18",
+    "book": "에스겔21~24",
+    "link": "https://www.youtube.com/watch?v=YIGyKVV76Z0&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=30"
+  },
+  {
+    "date": "7/19",
+    "book": "에스겔 설명",
+    "link": "https://www.youtube.com/watch?v=t7MwSpxihPk&list=PL68UlTaS5lt_TgyJYCLq1YFL-mX3xdju4&index=3"
+  },
+  {
+    "date": "7/20",
+    "book": "에스겔25~28",
+    "link": "https://www.youtube.com/watch?v=2ota-w7NFJU&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=31"
+  },
+  {
+    "date": "7/21",
+    "book": "에스겔29~32",
+    "link": "https://www.youtube.com/watch?v=_MfZR_e2FPw&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=32"
+  },
+  {
+    "date": "7/22",
+    "book": "에스겔33~36",
+    "link": "https://www.youtube.com/watch?v=SBRaVw0bpkY&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=33"
+  },
+  {
+    "date": "7/23",
+    "book": "에스겔37~40",
+    "link": "https://www.youtube.com/watch?v=Sf0anrSjF4Y&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=34"
+  },
+  {
+    "date": "7/24",
+    "book": "에스겔41~44",
+    "link": "https://www.youtube.com/watch?v=t5wPfb6oI7M&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=35"
+  },
+  {
+    "date": "7/25",
+    "book": "에스겔45~48",
+    "link": "https://www.youtube.com/watch?v=My3WFWI_uCE&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=36"
+  },
+  {
+    "date": "7/26",
+    "book": "다니엘 설명",
+    "link": "https://www.youtube.com/watch?v=ytn1zktdYzM&list=PL68UlTaS5lt_TgyJYCLq1YFL-mX3xdju4&index=4"
+  },
+  {
+    "date": "7/27",
+    "book": "다니엘1~4",
+    "link": "https://www.youtube.com/watch?v=lEYgvkpgxmw&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=37"
+  },
+  {
+    "date": "7/28",
+    "book": "다니엘5~8",
+    "link": "https://www.youtube.com/watch?v=4bmC7DWot-4&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=38"
+  },
+  {
+    "date": "7/29",
+    "book": "다니엘9~12",
+    "link": "https://www.youtube.com/watch?v=myTegLDI49E&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=39"
+  },
+  {
+    "date": "7/30",
+    "book": "호세아1~5",
+    "link": "https://www.youtube.com/watch?v=lRn6dwhhWZ8&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=40"
+  },
+  {
+    "date": "7/31",
+    "book": "호세아6~10",
+    "link": "https://www.youtube.com/watch?v=mrtFg8uBm1E&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=41"
+  },
+  {
+    "date": "8/1",
+    "book": "호세아11~14",
+    "link": "https://www.youtube.com/watch?v=ZOgEmfGBa5A&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=42"
+  },
+  {
+    "date": "8/2",
+    "book": "소선지서 설명",
+    "link": "https://www.youtube.com/watch?v=4jdhnOw9rLw&list=PL68UlTaS5lt_TgyJYCLq1YFL-mX3xdju4&index=5"
+  },
+  {
+    "date": "8/3",
+    "book": "요엘1~아모스3",
+    "link": "https://www.youtube.com/watch?v=8_FoMICdmn4&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=43"
+  },
+  {
+    "date": "8/4",
+    "book": "아모스4~9",
+    "link": "https://www.youtube.com/watch?v=4oocZF7aqzA&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=44"
+  },
+  {
+    "date": "8/5",
+    "book": "오바댜1~요나4",
+    "link": "https://www.youtube.com/watch?v=JuctF_00PWg&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=45"
+  },
+  {
+    "date": "8/6",
+    "book": "미가1~7",
+    "link": "https://www.youtube.com/watch?v=pmxDgl8G7tY&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=46"
+  },
+  {
+    "date": "8/7",
+    "book": "나훔1~하박국3",
+    "link": "https://www.youtube.com/watch?v=NIplsnvvmvk&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=47"
+  },
+  {
+    "date": "8/8",
+    "book": "스바냐1~3",
+    "link": "https://www.youtube.com/watch?v=b6QFWMxZwro&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=48"
+  },
+  {
+    "date": "8/9",
+    "book": "소선지서 설명",
+    "link": "https://www.youtube.com/watch?v=4jdhnOw9rLw&list=PL68UlTaS5lt_TgyJYCLq1YFL-mX3xdju4&index=5"
+  },
+  {
+    "date": "8/10",
+    "book": "학개1~2",
+    "link": "https://www.youtube.com/watch?v=DiZ2geCyh_w&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=49"
+  },
+  {
+    "date": "8/11",
+    "book": "스가랴1~5",
+    "link": "https://www.youtube.com/watch?v=IU6dNOFDBvg&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=50"
+  },
+  {
+    "date": "8/12",
+    "book": "스가랴6~10",
+    "link": "https://www.youtube.com/watch?v=kqgHSjmKTH0&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=51"
+  },
+  {
+    "date": "8/13",
+    "book": "스가랴11~14",
+    "link": "https://www.youtube.com/watch?v=oaLreEdP82o&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=52"
+  },
+  {
+    "date": "8/14",
+    "book": "말라기1~2",
+    "link": "https://www.youtube.com/watch?v=yTfL0fCCKxc&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=53"
+  },
+  {
+    "date": "8/15",
+    "book": "말라기3~4",
+    "link": "https://www.youtube.com/watch?v=BPeehvX5bro&list=PL68UlTaS5lt9_-ufG6E_oSmdzbn_YOC7f&index=54"
+  },
+  {
+    "date": "8/30",
+    "book": "복음서 설명1",
+    "link": "https://www.youtube.com/watch?v=aV-7QO8KdnY&list=PL68UlTaS5lt9rtUI4WkOYKTp_GcxpFRTH&index=1"
+  },
+  {
+    "date": "8/31",
+    "book": "마태복음1~3",
+    "link": "https://www.youtube.com/watch?v=s9jhVw2osL0&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=1"
+  },
+  {
+    "date": "9/1",
+    "book": "마태복음4~6",
+    "link": "https://www.youtube.com/watch?v=IqFjhdjnkWc&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=2"
+  },
+  {
+    "date": "9/2",
+    "book": "마태복음7~9",
+    "link": "https://www.youtube.com/watch?v=3Q9Bcg6nEZA&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=3"
+  },
+  {
+    "date": "9/3",
+    "book": "마태복음10~12",
+    "link": "https://www.youtube.com/watch?v=H1hjO5GUw8I&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=4"
+  },
+  {
+    "date": "9/4",
+    "book": "마태복음13~15",
+    "link": "https://www.youtube.com/watch?v=X2gBOqyR6OE&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=5"
+  },
+  {
+    "date": "9/5",
+    "book": "마태복음16~18",
+    "link": "https://www.youtube.com/watch?v=4-DKi4v8o9Y&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=6"
+  },
+  {
+    "date": "9/6",
+    "book": "복음서 설명2",
+    "link": "https://www.youtube.com/watch?v=1AuD1F7RaDw&list=PL68UlTaS5lt9rtUI4WkOYKTp_GcxpFRTH&index=2"
+  },
+  {
+    "date": "9/7",
+    "book": "마태복음19~21",
+    "link": "https://www.youtube.com/watch?v=5GQ7fnv4qPE&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=7"
+  },
+  {
+    "date": "9/8",
+    "book": "마태복음22~24",
+    "link": "https://www.youtube.com/watch?v=nQcJM_iBxM8&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=8"
+  },
+  {
+    "date": "9/9",
+    "book": "마태복음25~28",
+    "link": "https://www.youtube.com/watch?v=-6yPOe7XSLg&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=9"
+  },
+  {
+    "date": "9/10",
+    "book": "마가복음1~5",
+    "link": "https://www.youtube.com/watch?v=442IuDO7OCI&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=10"
+  },
+  {
+    "date": "9/11",
+    "book": "마가복음6~10",
+    "link": "https://www.youtube.com/watch?v=G_o3Dvwtxvg&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=11"
+  },
+  {
+    "date": "9/12",
+    "book": "마가복음11~16",
+    "link": "https://www.youtube.com/watch?v=Gc38ZhTAwpY&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=12"
+  },
+  {
+    "date": "9/13",
+    "book": "복음서 설명3",
+    "link": "https://www.youtube.com/watch?v=9j9RhkVMoKw&list=PL68UlTaS5lt9rtUI4WkOYKTp_GcxpFRTH&index=3"
+  },
+  {
+    "date": "9/14",
+    "book": "누가복음1~4",
+    "link": "https://www.youtube.com/watch?v=LqJcebvrE1Q&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=13"
+  },
+  {
+    "date": "9/15",
+    "book": "누가복음5~8",
+    "link": "https://www.youtube.com/watch?v=Gy6ZxzlllPg&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=14"
+  },
+  {
+    "date": "9/16",
+    "book": "누가복음9~12",
+    "link": "https://www.youtube.com/watch?v=TTJs88DBvN4&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=15"
+  },
+  {
+    "date": "9/17",
+    "book": "누가복음13~16",
+    "link": "https://www.youtube.com/watch?v=YAJOHz0M7gQ&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=16"
+  },
+  {
+    "date": "9/18",
+    "book": "누가복음17~20",
+    "link": "https://www.youtube.com/watch?v=Eczf1CFUV_I&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=17"
+  },
+  {
+    "date": "9/19",
+    "book": "누가복음21~24",
+    "link": "https://www.youtube.com/watch?v=-FjMTwiOK9I&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=18"
+  },
+  {
+    "date": "9/20",
+    "book": "복음서 설명4",
+    "link": "https://www.youtube.com/watch?v=7AlFvpeVHXI&list=PL68UlTaS5lt9rtUI4WkOYKTp_GcxpFRTH&index=4"
+  },
+  {
+    "date": "9/21",
+    "book": "요한복음1~4",
+    "link": "https://www.youtube.com/watch?v=CAUIYpFUwo0&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=19"
+  },
+  {
+    "date": "9/22",
+    "book": "요한복음5~8",
+    "link": "https://www.youtube.com/watch?v=FJIFSrwiqKI&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=20"
+  },
+  {
+    "date": "9/23",
+    "book": "요한복음9~12",
+    "link": "https://www.youtube.com/watch?v=7o00URTOFaQ&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=21"
+  },
+  {
+    "date": "9/24",
+    "book": "요한복음13~16",
+    "link": "https://www.youtube.com/watch?v=yZj6li_cM2I&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=22"
+  },
+  {
+    "date": "9/25",
+    "book": "요한복음17~19",
+    "link": "https://www.youtube.com/watch?v=LE5qadKhywI&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=23"
+  },
+  {
+    "date": "9/26",
+    "book": "요한복음20~21",
+    "link": "https://www.youtube.com/watch?v=assbCpt4gV8&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=24"
+  },
+  {
+    "date": "9/27",
+    "book": "사도행전 설명1",
+    "link": "https://www.youtube.com/watch?v=ovYiJ_q0aMg&list=PL68UlTaS5lt9rtUI4WkOYKTp_GcxpFRTH&index=5"
+  },
+  {
+    "date": "9/28",
+    "book": "사도행전1~3",
+    "link": "https://www.youtube.com/watch?v=ziuNeYbkrsA&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=25"
+  },
+  {
+    "date": "9/29",
+    "book": "사도행전4~5",
+    "link": "https://www.youtube.com/watch?v=bM1rbSaxHIw&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=26"
+  },
+  {
+    "date": "9/30",
+    "book": "사도행전6~8",
+    "link": "https://www.youtube.com/watch?v=7-sfLQeTPt8&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=27"
+  },
+  {
+    "date": "10/1",
+    "book": "사도행전9~10",
+    "link": "https://www.youtube.com/watch?v=EKezOe95niA&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=28"
+  },
+  {
+    "date": "10/2",
+    "book": "사도행전11~13",
+    "link": "https://www.youtube.com/watch?v=_80aJDapPEI&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=29"
+  },
+  {
+    "date": "10/3",
+    "book": "사도행전14~15",
+    "link": "https://www.youtube.com/watch?v=CLhMkHJd5NE&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=30"
+  },
+  {
+    "date": "10/4",
+    "book": "사도행전 설명2",
+    "link": "https://www.youtube.com/watch?v=heD3yyHR77c&list=PL68UlTaS5lt9rtUI4WkOYKTp_GcxpFRTH&index=6"
+  },
+  {
+    "date": "10/5",
+    "book": "사도행전16~18",
+    "link": "https://www.youtube.com/watch?v=ld3gDpnweVo&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=31"
+  },
+  {
+    "date": "10/6",
+    "book": "사도행전19~20",
+    "link": "https://www.youtube.com/watch?v=F1BN5q2p6wo&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=32"
+  },
+  {
+    "date": "10/7",
+    "book": "사도행전21~22",
+    "link": "https://www.youtube.com/watch?v=URxnYDxG_yk&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=33"
+  },
+  {
+    "date": "10/8",
+    "book": "사도행전23~24",
+    "link": "https://www.youtube.com/watch?v=TN_2f9bEqgg&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=34"
+  },
+  {
+    "date": "10/9",
+    "book": "사도행전25~26",
+    "link": "https://www.youtube.com/watch?v=kEPrUKszw50&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=35"
+  },
+  {
+    "date": "10/10",
+    "book": "사도행전27~28",
+    "link": "https://www.youtube.com/watch?v=8Fbig8ZiYPU&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=36"
+  },
+  {
+    "date": "10/11",
+    "book": "로마서 설명",
+    "link": "https://www.youtube.com/watch?v=cUYgRHn7lOk&list=PL68UlTaS5lt9rtUI4WkOYKTp_GcxpFRTH&index=7"
+  },
+  {
+    "date": "10/12",
+    "book": "로마서1~3",
+    "link": "https://www.youtube.com/watch?v=gJA-SvlQ0yw&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=37"
+  },
+  {
+    "date": "10/13",
+    "book": "로마서4~6",
+    "link": "https://www.youtube.com/watch?v=-CBOqCG5vko&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=38"
+  },
+  {
+    "date": "10/14",
+    "book": "로마서7~8",
+    "link": "https://www.youtube.com/watch?v=_BQoYxEfN70&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=39"
+  },
+  {
+    "date": "10/15",
+    "book": "로마서9~11",
+    "link": "https://www.youtube.com/watch?v=wiKsSOALXI4&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=40"
+  },
+  {
+    "date": "10/16",
+    "book": "로마서12~14",
+    "link": "https://www.youtube.com/watch?v=fKQq17CkZxY&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=41"
+  },
+  {
+    "date": "10/17",
+    "book": "로마서15~16",
+    "link": "https://www.youtube.com/watch?v=lJ3d35qUNco&list=PL68UlTaS5lt8KI_BZKitUoAqJCsnPwWH-&index=42"
+  },
+  {
+    "date": "10/18",
+    "book": "바울서신 설명1",
+    "link": "https://www.youtube.com/watch?v=w6Zsa0LU7AE&list=PL68UlTaS5lt8qnnszSEa5TapJjzlvxEoW&index=1"
+  },
+  {
+    "date": "10/19",
+    "book": "고린도전서1~4",
+    "link": "https://www.youtube.com/watch?v=bwJKUVMkeBY&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=1"
+  },
+  {
+    "date": "10/20",
+    "book": "고린도전서5~8",
+    "link": "https://www.youtube.com/watch?v=R6oO73_leUo&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=2"
+  },
+  {
+    "date": "10/21",
+    "book": "고린도전서9~12",
+    "link": "https://www.youtube.com/watch?v=UfFj8mucrWY&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=3"
+  },
+  {
+    "date": "10/22",
+    "book": "고린도전서13~16",
+    "link": "https://www.youtube.com/watch?v=Y3aWssyHWD0&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=4"
+  },
+  {
+    "date": "10/23",
+    "book": "고린도후서1~3",
+    "link": "https://www.youtube.com/watch?v=i8UT_qVa1zU&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=5"
+  },
+  {
+    "date": "10/24",
+    "book": "고린도후서4~6",
+    "link": "https://www.youtube.com/watch?v=Y8OkR-Lhogs&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=6"
+  },
+  {
+    "date": "10/25",
+    "book": "바울서신 설명2",
+    "link": "https://www.youtube.com/watch?v=aP08iEL7vdQ&list=PL68UlTaS5lt8qnnszSEa5TapJjzlvxEoW&index=2"
+  },
+  {
+    "date": "10/26",
+    "book": "고린도후서7~9",
+    "link": "https://www.youtube.com/watch?v=CXn-S993CMo&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=7"
+  },
+  {
+    "date": "10/27",
+    "book": "고린도후서10~13",
+    "link": "https://www.youtube.com/watch?v=1tyqxbo59cA&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=8"
+  },
+  {
+    "date": "10/28",
+    "book": "갈라디아서1~6",
+    "link": "https://www.youtube.com/watch?v=FfAXSKCSOho&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=9"
+  },
+  {
+    "date": "10/29",
+    "book": "에베소서1~3",
+    "link": "https://www.youtube.com/watch?v=8xkHZcoOC6A&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=10"
+  },
+  {
+    "date": "10/30",
+    "book": "에베소서4~6",
+    "link": "https://www.youtube.com/watch?v=61UAt8wOGgw&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=11"
+  },
+  {
+    "date": "10/31",
+    "book": "빌립보서1~4",
+    "link": "https://www.youtube.com/watch?v=7DBVGiGtX_c&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=12"
+  },
+  {
+    "date": "11/1",
+    "book": "바울서신 설명3",
+    "link": "https://www.youtube.com/watch?v=IvcfBnhTAGE&list=PL68UlTaS5lt8qnnszSEa5TapJjzlvxEoW&index=3"
+  },
+  {
+    "date": "11/2",
+    "book": "골로새서1~4",
+    "link": "https://www.youtube.com/watch?v=r3tUIl-BsjM&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=13"
+  },
+  {
+    "date": "11/3",
+    "book": "데살로니가전서1~5",
+    "link": "https://www.youtube.com/watch?v=9gFYfA5wpoA&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=14"
+  },
+  {
+    "date": "11/4",
+    "book": "데살로니가후서1~3",
+    "link": "https://www.youtube.com/watch?v=DNXNmGFS-wE&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=15"
+  },
+  {
+    "date": "11/5",
+    "book": "디모데전서1~6",
+    "link": "https://www.youtube.com/watch?v=vpmjgzwTBfA&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=16"
+  },
+  {
+    "date": "11/6",
+    "book": "디모데후서1~4",
+    "link": "https://www.youtube.com/watch?v=-8-6Q7SFl-Y&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=17"
+  },
+  {
+    "date": "11/7",
+    "book": "디도서,벨레몬서 설명",
+    "link": "https://www.youtube.com/watch?v=kRLZJHZVanU&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=18"
+  },
+  {
+    "date": "11/8",
+    "book": "일반서신 설명1(히브리서)",
+    "link": "https://www.youtube.com/watch?v=9coXCovH_Kc&list=PL68UlTaS5lt8qnnszSEa5TapJjzlvxEoW&index=4"
+  },
+  {
+    "date": "11/9",
+    "book": "히브리서1~3",
+    "link": "https://www.youtube.com/watch?v=agTY7-xNSO4&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=19"
+  },
+  {
+    "date": "11/10",
+    "book": "히브리서4~6",
+    "link": "https://www.youtube.com/watch?v=2jaQj22u9lI&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=20"
+  },
+  {
+    "date": "11/11",
+    "book": "히브리서7~9",
+    "link": "https://www.youtube.com/watch?v=ajSFL3_ajrU&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=21"
+  },
+  {
+    "date": "11/12",
+    "book": "히브리서10~13",
+    "link": "https://www.youtube.com/watch?v=wSWzAufJvEk&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=22"
+  },
+  {
+    "date": "11/13",
+    "book": "야고보서1~3",
+    "link": "https://www.youtube.com/watch?v=PAq7E72ycLE&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=23"
+  },
+  {
+    "date": "11/14",
+    "book": "야고보서4~5",
+    "link": "https://www.youtube.com/watch?v=WTguKGFI3qM&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=24"
+  },
+  {
+    "date": "11/15",
+    "book": "일반서신 설명2(요한일서)",
+    "link": "https://www.youtube.com/watch?v=yxTmK4m2ekM&list=PL68UlTaS5lt8qnnszSEa5TapJjzlvxEoW&index=5"
+  },
+  {
+    "date": "11/16",
+    "book": "베드로전서1~5",
+    "link": "https://www.youtube.com/watch?v=mSKi4eyTmIE&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=25"
+  },
+  {
+    "date": "11/17",
+    "book": "베드로후서1~3",
+    "link": "https://www.youtube.com/watch?v=xOo0-cEQ1oY&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=26"
+  },
+  {
+    "date": "11/18",
+    "book": "요한일서1~3",
+    "link": "https://www.youtube.com/watch?v=_mHynj50bGY&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=27"
+  },
+  {
+    "date": "11/19",
+    "book": "요한일서4~5",
+    "link": "https://www.youtube.com/watch?v=OIelTSvF-WU&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=28"
+  },
+  {
+    "date": "11/20",
+    "book": "요한이서,요한삼서 설명",
+    "link": "https://www.youtube.com/watch?v=B2QsQvhZHoM&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=29"
+  },
+  {
+    "date": "11/21",
+    "book": "유다서",
+    "link": "https://www.youtube.com/watch?v=GsVozmA1vFU&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=30"
+  },
+  {
+    "date": "11/22",
+    "book": "요한계시록 설명1",
+    "link": "https://www.youtube.com/watch?v=imWjNPHxDyc&list=PL68UlTaS5lt8qnnszSEa5TapJjzlvxEoW&index=6"
+  },
+  {
+    "date": "11/23",
+    "book": "요한계시록1",
+    "link": "https://www.youtube.com/watch?v=05jma4atSKc&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=31"
+  },
+  {
+    "date": "11/24",
+    "book": "요한계시록2~3",
+    "link": "https://www.youtube.com/watch?v=8mSiKwEL8YQ&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=32"
+  },
+  {
+    "date": "11/25",
+    "book": "요한계시록4~5",
+    "link": "https://www.youtube.com/watch?v=EaprKEP7ISY&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=33"
+  },
+  {
+    "date": "11/26",
+    "book": "요한계시록6~7",
+    "link": "https://www.youtube.com/watch?v=GYT8b2zTONw&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=34"
+  },
+  {
+    "date": "11/27",
+    "book": "요한계시록8~9",
+    "link": "https://www.youtube.com/watch?v=e3VgIQW8lic&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=35"
+  },
+  {
+    "date": "11/28",
+    "book": "요한계시록10~11",
+    "link": "https://www.youtube.com/watch?v=iL_pCrezCcE&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=36"
+  },
+  {
+    "date": "11/29",
+    "book": "요한계시록 설명2",
+    "link": "https://www.youtube.com/watch?v=7hQSOYCETPE&list=PL68UlTaS5lt8qnnszSEa5TapJjzlvxEoW&index=7"
+  },
+  {
+    "date": "11/30",
+    "book": "요한계시록12~13",
+    "link": "https://www.youtube.com/watch?v=0RC88Z6thWk&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=37"
+  },
+  {
+    "date": "12/1",
+    "book": "요한계시록14~15",
+    "link": "https://www.youtube.com/watch?v=BGalmVwkYiM&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=38"
+  },
+  {
+    "date": "12/2",
+    "book": "요한계시록16~17",
+    "link": "https://www.youtube.com/watch?v=DoTn90cZCWg&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=39"
+  },
+  {
+    "date": "12/3",
+    "book": "요한계시록18~19",
+    "link": "https://www.youtube.com/watch?v=7I3wqAKwnIg&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=40"
+  },
+  {
+    "date": "12/4",
+    "book": "요한계시록20~21",
+    "link": "https://www.youtube.com/watch?v=y3HsExGTcWo&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=41"
+  },
+  {
+    "date": "12/5",
+    "book": "요한계시록22",
+    "link": "https://www.youtube.com/watch?v=urNbAm_yuvY&list=PL68UlTaS5lt_kVGtZ06CYD7MfD9r4-Kyh&index=42"
+  }
+]
