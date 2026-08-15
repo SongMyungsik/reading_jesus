@@ -321,7 +321,8 @@ class _DayRow extends StatelessWidget {
     if (isSunday) dateColor = const Color(0xFFE53935);
     if (isSaturday) dateColor = const Color(0xFF1565C0);
 
-    final bool hasLink = entry != null;
+    final bool hasVideo = entry != null && entry!.link.isNotEmpty;
+    final bool hasNote = entry != null && entry!.link.isEmpty;
 
     return Container(
       margin: const EdgeInsets.only(bottom: 6),
@@ -333,12 +334,14 @@ class _DayRow extends StatelessWidget {
         border: Border.all(
           color: isToday
               ? const Color(0xFFFBC02D)
-              : hasLink
+              : hasVideo
                   ? const Color(0xFF90CAF9)
-                  : const Color(0xFFE0E0E0),
-          width: (isToday || hasLink) ? 1.5 : 0.8,
+                  : hasNote
+                      ? const Color(0xFFB0BEC5)
+                      : const Color(0xFFE0E0E0),
+          width: (isToday || hasVideo) ? 1.5 : 0.8,
         ),
-        boxShadow: hasLink || isToday
+        boxShadow: hasVideo || isToday
             ? [
                 BoxShadow(
                   color: (isToday
@@ -352,7 +355,7 @@ class _DayRow extends StatelessWidget {
             : [],
       ),
       child: GestureDetector(
-        onTap: hasLink ? () => _openVideo(context) : null,
+        onTap: hasVideo ? () => _openVideo(context) : null,
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 13),
           child: Row(
@@ -415,7 +418,7 @@ class _DayRow extends StatelessWidget {
 
               // ── 성경 범위 ──
               Expanded(
-                child: hasLink
+                child: hasVideo
                     ? Row(
                         children: [
                           const Icon(Icons.play_circle_fill,
@@ -435,13 +438,32 @@ class _DayRow extends StatelessWidget {
                               size: 18, color: Color(0xFF90CAF9)),
                         ],
                       )
-                    : const Text(
-                        ' -',
-                        style: TextStyle(
-                          fontSize: 16,
-                          color: Color(0xFFBDBDBD),
-                        ),
-                      ),
+                    : hasNote
+                        ? Row(
+                            children: [
+                              const Icon(Icons.event_note,
+                                  size: 18, color: Color(0xFF78909C)),
+                              const SizedBox(width: 6),
+                              Expanded(
+                                child: Text(
+                                  entry!.book,
+                                  style: const TextStyle(
+                                    fontSize: 15,
+                                    fontWeight: FontWeight.w600,
+                                    fontStyle: FontStyle.italic,
+                                    color: Color(0xFF607D8B),
+                                  ),
+                                ),
+                              ),
+                            ],
+                          )
+                        : const Text(
+                            ' -',
+                            style: TextStyle(
+                              fontSize: 16,
+                              color: Color(0xFFBDBDBD),
+                            ),
+                          ),
               ),
             ],
           ),
