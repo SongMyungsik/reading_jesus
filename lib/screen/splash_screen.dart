@@ -1,5 +1,6 @@
+import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
+import 'package:http/http.dart' as http;
 import 'home_screen.dart';
 
 class SplashScreen extends StatefulWidget {
@@ -16,7 +17,9 @@ class _SplashScreenState extends State<SplashScreen>
   late Animation<double> _scaleAnim;
   int? _loadCount;
 
-  static const String _loadCountKey = 'load_count';
+  // 모든 사용자의 누적 접속 수를 세는 무료 카운터 API (가입/설정 불필요)
+  static const String _counterUrl =
+      'https://abacus.jasoncameron.dev/hit/reading-jesus-bible/app-loads';
 
   @override
   void initState() {
@@ -40,10 +43,15 @@ class _SplashScreenState extends State<SplashScreen>
   }
 
   Future<void> _incrementLoadCount() async {
-    final prefs = await SharedPreferences.getInstance();
-    final count = (prefs.getInt(_loadCountKey) ?? 0) + 1;
-    await prefs.setInt(_loadCountKey, count);
-    if (mounted) setState(() => _loadCount = count);
+    try {
+      final response = await http
+          .get(Uri.parse(_counterUrl))
+          .timeout(const Duration(seconds: 5));
+      final count = jsonDecode(response.body)['value'] as int;
+      if (mounted) setState(() => _loadCount = count);
+    } catch (_) {
+      // 카운터 API에 접속할 수 없으면 조용히 표시를 생략한다.
+    }
   }
 
   @override
@@ -174,7 +182,7 @@ class _SplashScreenState extends State<SplashScreen>
                   ),
                   const SizedBox(height: 10),
                   const Text(
-                    'ReadingJesusBible ver. 1.0',
+                    'ReadingJesusBible ver. 1.1',
                     style: TextStyle(
                       fontSize: 12.0, // 글자 크기를 크게 설정
                       //  fontWeight: FontWeight.bold,   // 글자를 굵게 설정
