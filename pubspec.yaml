@@ -12,7 +12,8 @@ dependencies:
   flutter:
     sdk: flutter
   url_launcher: ^6.2.5
- 
+  shared_preferences: ^2.2.2
+
 
 
 dev_dependencies:
